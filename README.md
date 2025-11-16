@@ -1,4 +1,4 @@
-# NVIDIA Generative AI Ecosystem: Cheat Sheet & Exam Review for NCA-GENL
+# NVIDIA Ecosystem: Cheat Sheet & Exam Review for NVIDIA Certified Associate - Generative AI LLMs (NCA-GENL)
 
 This repository provides a concise cheat sheet and review guide for the **NVIDIA Certified Associate - Generative AI LLMs (NCA-GENL)** certification. It is designed to help candidates quickly grasp the key components of the NVIDIA Generative AI ecosystem and their roles in building and deploying large language models.
 
@@ -22,7 +22,7 @@ The exam consists of two types of questions:
 
 Based on my experience, the NCA-GENL exam can be broadly categorized into two primary domains.
 
-### 1. Foundational AI, ML, and LLM Concepts (Difficulty: ★☆☆)
+### 1. Foundational AI, ML, and LLM Concepts (Difficulty: ★★)
 
 This portion covers fundamental concepts in machine learning and generative AI. Candidates with a computer science background or practical experience in the field will likely find these topics familiar. The questions are generally high-level.
 
@@ -34,7 +34,7 @@ This portion covers fundamental concepts in machine learning and generative AI. 
 
 > **Note:** The exam may also lightly touch upon concepts like Diffusion models, multimodality, and traditional ML algorithms (e.g., SVM), but the questions are typically conceptual.
 
-### 2. The NVIDIA Generative AI Ecosystem (Difficulty: ★★☆)
+### 2. The NVIDIA Generative AI Ecosystem (Difficulty: ★★★)
 
 This is a critical and often challenging component of the exam. It requires a specific understanding of NVIDIA's full-stack platform, including its software, tools, and services for developing and deploying AI solutions. A significant portion of the exam is dedicated to testing your knowledge of how these components work together.
 
